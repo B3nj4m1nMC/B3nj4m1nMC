@@ -2,5 +2,5 @@
 ## Soy Camilo Benjamín Meza Chuco
 ### Siempre hay algo nuevo para aprender
 
-** Este mensaje es nefrita **
+** Este mensaje es negrita **
 _Este es un mensaje en cursiva_
