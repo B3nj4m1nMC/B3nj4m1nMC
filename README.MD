@@ -14,5 +14,3 @@ Actualmente Estudiando la carrera de Computación Informática, para llegar a se
 
 ---
 [![](https://visitcount.itsvg.in/api?id=B3nj4m1nMC&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
