@@ -1,5 +1,5 @@
 <h1 align="center"><b> Hola, Soy Camilo Benjamín Meza Chuco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-Actualmente Estudiando la carrera de Computación Informática, para llegar a ser un programador profesional al igual que mi  profesor Luis Alberto Gutierrez Anicamas, siganlo en github como LAGArtija2025. 
+Actualmente Estudiando la carrera de Computación Informática, para llegar a ser un programador profesional al igual que mi  profesor Luis Alberto Gutierrez Anicama, siganlo en github como LAGArtija2025. 
 
 
 ## Redes Sociales:
